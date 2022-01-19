@@ -1,0 +1,10 @@
+com/example/demo/FetchRewardsApplication.class
+com/example/demo/entity/Points.class
+com/example/demo/repository/PayerRepository.class
+com/example/demo/entity/Transaction.class
+com/example/demo/service/FetchService.class
+com/example/demo/entity/Payer.class
+com/example/demo/repository/TransactionRepository$1.class
+com/example/demo/controller/FetchController.class
+com/example/demo/repository/TransactionRepository.class
+com/example/demo/service/SpentPointsHelper.class
