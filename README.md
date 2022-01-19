@@ -73,7 +73,9 @@ Prerequisites :
 1. Java Version 8
 
 openjdk version "1.8.0_292"
+
 OpenJDK Runtime Environment (AdoptOpenJDK)(build 1.8.0_292-b10)
+
 OpenJDK 64-Bit Server VM (AdoptOpenJDK)(build 25.292-b10, mixed mode)
 
 
