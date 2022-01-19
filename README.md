@@ -5,7 +5,7 @@ The following web service consists of the following API endpoints :
 
 
 
-1. POST /payer/transaction : 
+1. POST /payer/transaction 
 
 Request Body : { "payer": "DANNON", "points": 1000, "timestamp": "2020-11-02T14:00:00Z" }
 
