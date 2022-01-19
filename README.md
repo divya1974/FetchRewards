@@ -4,6 +4,7 @@ The following web service consists of the following API endpoints :
 
 
 
+
 1. POST /payer/transaction : 
 
 Request Body : { "payer": "DANNON", "points": 1000, "timestamp": "2020-11-02T14:00:00Z" }
@@ -13,6 +14,8 @@ Description : add a transaction
 Response Body : { "payer": "DANNON", "points": 1000, "timestamp": "2020-11-02T14:00:00Z" }
 
 curl -d  '{ "payer": "DANNON", "points": 1000, "timestamp": "2020-11-02T14:00:00Z" }' -H 'Content-Type: application/json' localhost:8080/payer/transaction
+
+
 
 
 
@@ -34,6 +37,8 @@ curl -d  '{ "points": 5000 }' -H 'Content-Type: application/json' localhost:8080
 
 
 
+
+
  
 3. GET  /payer/balance
 
@@ -47,6 +52,7 @@ Response Body :
 }
 
 curl -d  localhost:8080/payer/balances
+
 
 
 
