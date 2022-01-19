@@ -50,7 +50,7 @@ curl -d  localhost:8080/payer/balances
 
 
 
-How to Test ?
+# How to Test ?
 
 1. There are test cases for each of the use case. 
 2. Run the application, and hit the api via Postman to validate response
@@ -59,7 +59,7 @@ How to Test ?
 
 
 
-How to run the application on local ?
+# How to run the application on local ?
 
 1. Maven built jar of the application is placed in the target folder with the name of RewardsSystem-0.0.1-SNAPSHOT.jar. 
 2. Run the jar using the command : java -jar target/RewardsSystem-0.0.1-SNAPSHOT.jar 
@@ -68,7 +68,7 @@ How to run the application on local ?
 
 
 
-Prerequisites :
+# Prerequisites :
 
 1. Java Version 8
 
